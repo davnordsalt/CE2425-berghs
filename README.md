@@ -1,2 +1,7 @@
 # CE2425-berghs
-Course repository for "Programming &amp; methods pt. 1" at Berghs School of Communication. 
+
+Welcome to the course repository for the course "CE2425: Programming & methods pt. 1". Here you will find:
+- Resources for the course (such as videos and code snippets)
+- Submission guidelines for the final assignment
+
+
